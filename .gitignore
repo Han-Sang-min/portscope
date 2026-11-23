@@ -1,0 +1,18 @@
+# build outputs
+build/
+out/
+cmake-build-*/
+compile_commands.json
+
+# fuzzing artifacts
+crash-*
+leak-*
+timeout-*
+oom-*
+
+# editors and OS
+.vscode/
+.idea/
+.cache/
+*.swp
+.DS_Store
