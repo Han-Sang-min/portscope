@@ -5,10 +5,12 @@ Docker 컨테이너들의 연결을 집계하고 경보하는 Linux C 데몬이�
 | 문서 | 볼 것 |
 | --- | --- |
 | [docs/plan.md](docs/plan.md) | 전체 계획, 실행 구조(DaemonSet형 에이전트 + 수집기) |
-| [docs/process.md](docs/process.md) | 단계마다의 순서, 질의답 기록 규칙, 단계 문서 구성 |
+| [docs/process.md](docs/process.md) | 공통 개발 표준 링크, 이 프로젝트에만 해당하는 진행 방식 |
 | [docs/decisions.md](docs/decisions.md) | 확정된 결정과 사용자가 적은 이유, **미정 항목** |
 | [docs/qa/](docs/qa/) | 단계별 질의답. **마지막 항목이 현재 위치**다 |
 | [docs/steps/](docs/steps/) | 끝난 단계의 단계 문서 |
+
+진행 방식의 원본은 프로젝트 공통 [개발 표준](https://github.com/Han-Sang-min/dev-standard)이다(비공개 저장소).
 
 ## 작업 규칙
 
